@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Frogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D364584-2920-BB6C-450B-DD1D271CC87E}|Frogger\\Frogger.csproj|c:\\users\\usuario\\source\\repos\\frogger\\frogger\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D364584-2920-BB6C-450B-DD1D271CC87E}|Frogger\\Frogger.csproj|solutionrelative:frogger\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D364584-2920-BB6C-450B-DD1D271CC87E}|Frogger\\Frogger.csproj|c:\\users\\usuario\\source\\repos\\frogger\\frogger\\entidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D364584-2920-BB6C-450B-DD1D271CC87E}|Frogger\\Frogger.csproj|solutionrelative:frogger\\entidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D364584-2920-BB6C-450B-DD1D271CC87E}|Frogger\\Frogger.csproj|c:\\users\\usuario\\source\\repos\\frogger\\frogger\\componentes\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D364584-2920-BB6C-450B-DD1D271CC87E}|Frogger\\Frogger.csproj|solutionrelative:frogger\\componentes\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D364584-2920-BB6C-450B-DD1D271CC87E}|Frogger\\Frogger.csproj|c:\\users\\usuario\\source\\repos\\frogger\\frogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D364584-2920-BB6C-450B-DD1D271CC87E}|Frogger\\Frogger.csproj|solutionrelative:frogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D364584-2920-BB6C-450B-DD1D271CC87E}|Frogger\\Frogger.csproj|c:\\users\\usuario\\source\\repos\\frogger\\frogger\\frogger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D364584-2920-BB6C-450B-DD1D271CC87E}|Frogger\\Frogger.csproj|solutionrelative:frogger\\frogger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Frogger\\Frogger\\Componentes\\Sprite.cs",
+              "RelativeDocumentMoniker": "Frogger\\Componentes\\Sprite.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Frogger\\Frogger\\Componentes\\Sprite.cs",
+              "RelativeToolTip": "Frogger\\Componentes\\Sprite.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T02:34:42.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Frogger\\Frogger\\Entidades\\Jugador.cs",
+              "RelativeDocumentMoniker": "Frogger\\Entidades\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Frogger\\Frogger\\Entidades\\Jugador.cs*",
+              "RelativeToolTip": "Frogger\\Entidades\\Jugador.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T02:01:25.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Frogger\\Frogger\\Program.cs",
+              "RelativeDocumentMoniker": "Frogger\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Frogger\\Frogger\\Program.cs",
+              "RelativeToolTip": "Frogger\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:21:44.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frogger.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Frogger\\Frogger\\Frogger.csproj",
+              "RelativeDocumentMoniker": "Frogger\\Frogger.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Frogger\\Frogger\\Frogger.csproj",
+              "RelativeToolTip": "Frogger\\Frogger.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-01T00:51:04.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Frogger\\Frogger\\Game1.cs",
+              "RelativeDocumentMoniker": "Frogger\\Game1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Frogger\\Frogger\\Game1.cs",
+              "RelativeToolTip": "Frogger\\Game1.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAQwLwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T22:46:44.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
