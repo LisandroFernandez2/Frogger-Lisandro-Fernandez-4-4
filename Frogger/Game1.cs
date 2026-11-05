@@ -7,11 +7,19 @@ using Microsoft.Xna.Framework.Input;    // Para leer el teclado (Keyboard, Keys)
 
 namespace Frogger
 {  // Tiene que coincidir con el que usás en Program.cs (new Frogger.Game1())
+<<<<<<< Updated upstream
     
     // Variable enum la cual va a guardar los distintos tipos de pantallas
     public enum PantallasJuego { MenuPrincipal }
 
     
+=======
+
+    // Variable enum la cual va a guardar los distintos tipos de pantallas
+    public enum PantallasJuego { MenuPrincipal }
+
+
+>>>>>>> Stashed changes
     public class Game1 : Game
     {
         // ---------- VARIABLES DEL JUEGO ----------
@@ -64,4 +72,8 @@ namespace Frogger
             base.Draw(gameTime);
         }
     }
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes

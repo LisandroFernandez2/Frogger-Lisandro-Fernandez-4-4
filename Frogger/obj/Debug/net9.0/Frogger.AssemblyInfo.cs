@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Frogger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+095937d68ce4fa0440c3bf9b9954608a127b0f17")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b79d2e0b37616f10ea6875c54ddbac682860014a")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("Frogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Frogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
